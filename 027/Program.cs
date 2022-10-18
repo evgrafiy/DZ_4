@@ -12,4 +12,4 @@ int num = i % 10;
 i = i / 10;
 sum = sum + num;
 }
-Console.WriteLine("сумма всех цифр в числе равна: " + sum);
+Console.WriteLine("сумма всех цифр в числе равна: " + sum); 
